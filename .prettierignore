@@ -1,0 +1,27 @@
+pnpm-lock.yaml
+
+# Commonly ignored Node.js files
+node_modules
+npm-debug.log
+.npm
+
+# Next.js Build Output
+.next
+.swc
+build
+
+# Next.js Generated Files
+public/static/documents
+
+
+# Cache Files
+.eslintjscache
+.eslintmdcache
+.prettiercache
+
+# TypeScript
+tsconfig.tsbuildinfo
+
+# cache
+.eslintjscache
+.prettiercache
